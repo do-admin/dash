@@ -35,7 +35,6 @@ htmlcov/
 venv/
 env/
 ENV/
-.env
 .envrc
 
 # =========================
@@ -47,7 +46,6 @@ ENV/
 # IDEs / editors
 # =========================
 .idea/
-.vscode/
 
 # =========================
 # OS cruft
@@ -63,3 +61,9 @@ tmp
 
 # Optional: local PyPI creds (uncomment if you ever create it)
 # .pypirc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
